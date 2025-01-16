@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to ITSE1302");
+            Console.ReadLine();
         }
     }
 }
