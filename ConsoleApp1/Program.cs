@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // Prints "Welcome to ITSE1302"
             Console.WriteLine("Welcome to ITSE1302");
+            // Pause for user input
             Console.ReadLine();
         }
     }
